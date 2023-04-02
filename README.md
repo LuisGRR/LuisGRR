@@ -1,13 +1,19 @@
-# <div align="center">Hi there 👋</div>
+# hola soy luis gerardo rivera rivera
+## <div align="center"> Console.log(👋) </div>
 
 <div align="center">
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
+¡Hola! Soy un desarrollador web apasionado por la creación de soluciones innovadoras y efectivas para mis clientes. Con una amplia experiencia en diversos lenguajes de programación como PHP, Java, JavaScript, Vue, Tailwind, CSS y HTML.
+
+Mi objetivo es trabajar en equipo para crear productos de calidad que superen las expectativas de mis clientes. Me gusta mantenerme actualizado en las últimas tendencias y tecnologías, y siempre busco la forma de integrarlas en mis proyectos.
+
 - 🌱 Actualmente estoy aprendiendo VueJS y su ecosistema
 - ❓ Preguntame sobre aplicasiones java(Escritorio) y php
 - 🎓 Egresado de la carrera de Ing. Sistemas Computacionales
-  
+- 👨‍💻 Mis proyectos están disponibles en https://luisgrr.github.io/webpagelgrr/
+- 
 -----
 
 ## 🎯 My Skill Set  
@@ -22,16 +28,6 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 </div>  
-
-
-### Complementos  
-
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
 </td>
 <td valign="top" width="33%">
 
@@ -56,6 +52,18 @@
 </div>
 
 </td>
+
+<td valign="top" width="33%">
+    
+### Complementos  
+
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+</td>
+
 </tr>
 </table>  
 
