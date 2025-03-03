@@ -5,11 +5,8 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-¡Hola! Soy un desarrollador web apasionado por la creación de soluciones innovadoras y efectivas para mis clientes. Con una amplia experiencia en diversos lenguajes de programación como PHP, Java, JavaScript, Vue, Tailwind, CSS y HTML.
+¡Hola! Soy un desarrollador web apasionado por la creación de soluciones innovadoras y efectivas para mis clientes. Con una amplia experiencia en diversos lenguajes de programación como PHP, Java, JavaScript.
 
-Mi objetivo es trabajar en equipo para crear productos de calidad que superen las expectativas de mis clientes. Me gusta mantenerme actualizado en las últimas tendencias y tecnologías, y siempre busco la forma de integrarlas en mis proyectos.
-
-- 🌱 Actualmente estoy aprendiendo VueJS y su ecosistema
 - ❓ Preguntame sobre aplicasiones java(Escritorio) y php
 - 🎓 Egresado de la carrera de Ing. Sistemas Computacionales
 - 👨‍💻 Mis proyectos están disponibles en https://luisgrr.github.io/webpagelgrr/
